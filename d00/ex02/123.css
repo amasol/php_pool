@@ -1,0 +1,46 @@
+body {
+  background-color: #505050;
+  font-family: monospace;
+  font-color: black;
+}
+#obvertka {
+  width: 1200px;
+}
+
+#header {
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #909090;
+}
+
+#logo {
+    float: left;
+    margin-left: 10px;
+}
+
+div#loupe {
+    text-align: right;
+    margin-right: 30px;
+}
+
+div#loupe img {
+    padding-top: 20px;
+    margin-bottom: -20px;
+}
+
+div#reload {
+    float: right;
+    margin-top: -140px;
+    margin-right: 10px;
+}
+
+div#close {
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: -30px;
+}
